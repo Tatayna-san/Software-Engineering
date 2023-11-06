@@ -1,4 +1,0 @@
-# Lines starting with `#` are comments.
-
-# Ignore files called '*.bin'
-*.bin
